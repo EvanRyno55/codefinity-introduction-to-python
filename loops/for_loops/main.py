@@ -4,4 +4,4 @@ total = 0
 for price in prices:
     total += price
 
-print(f'Total price for products:', total)
+print(f'Total price for products: {total:.2f}')
